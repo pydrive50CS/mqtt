@@ -1,6 +1,4 @@
 
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:mqtt_chat_app/mqtt_manager.dart';
 
